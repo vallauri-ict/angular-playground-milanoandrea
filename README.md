@@ -1,4 +1,4 @@
-# angular-playground-thespino
+# angular-playground-milanoandrea
 All angular projects created during S.Y. 2019/2020
 
 ## Contributor
